@@ -6,6 +6,7 @@ myClocking respects user privacy and provides a way for users to request deletio
 To request deletion of your data, please contact us using the details below:
 
 **Email:** joe@bca.com.my
+
 **Subject:** Data Deletion Request – myClocking
 
 In your request, please include:
